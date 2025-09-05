@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\fundamentos de algoritmo_ele\FUNDAMENTOS_ALGORITMO(8455)\SEMANA1-C#\bin\Debug\SEMANA1-C#.exe.config
+C:\Users\UPN\Desktop\fundamentos de algoritmo_ele\FUNDAMENTOS_ALGORITMO(8455)\SEMANA1-C#\bin\Debug\SEMANA1-C#.exe
+C:\Users\UPN\Desktop\fundamentos de algoritmo_ele\FUNDAMENTOS_ALGORITMO(8455)\SEMANA1-C#\bin\Debug\SEMANA1-C#.pdb
+C:\Users\UPN\Desktop\fundamentos de algoritmo_ele\FUNDAMENTOS_ALGORITMO(8455)\SEMANA1-C#\obj\Debug\SEMANA1-C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\fundamentos de algoritmo_ele\FUNDAMENTOS_ALGORITMO(8455)\SEMANA1-C#\obj\Debug\SEMANA1-C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\fundamentos de algoritmo_ele\FUNDAMENTOS_ALGORITMO(8455)\SEMANA1-C#\obj\Debug\SEMANA1-C#.exe
+C:\Users\UPN\Desktop\fundamentos de algoritmo_ele\FUNDAMENTOS_ALGORITMO(8455)\SEMANA1-C#\obj\Debug\SEMANA1-C#.pdb
